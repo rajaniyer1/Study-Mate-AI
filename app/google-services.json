@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75954963039",
+    "project_id": "digital-binder-6c41f",
+    "storage_bucket": "digital-binder-6c41f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75954963039:android:0ba0c214044aa9ced3d1ea",
+        "android_client_info": {
+          "package_name": "com.example.digitalbinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLdFbVJxANFoYgei5b6_ZmY4_HkjjUWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

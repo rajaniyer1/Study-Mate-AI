@@ -22,12 +22,15 @@ An AI-powered Android study app that scans handwritten or printed notes using OC
 - Designed Firebase data architecture and sync system
 - Created UI components and study analytics dashboard
 
+---
+
+
 ## Full Details
 **Digital Binder** is an AI-powered study companion built natively for Android. Designed for high school and college students, this application digitizes physical notes and textbook pages, automatically extracting text to generate smart flashcards, study guides, and mastery analytics. 
 
 By leveraging **Google ML Kit** for optical character recognition (OCR) and a custom implementation of the **Leitner Spaced Repetition Algorithm**, Digital Binder transforms passive reading into active, data-driven learning.
 
----
+
 
 ## Key Features
 

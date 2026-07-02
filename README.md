@@ -1,5 +1,28 @@
 # Digital Binder
 
+## Summary
+An AI-powered Android study app that scans handwritten or printed notes using OCR and automatically generates flashcards and study insights using spaced repetition and NLP techniques.
+
+## Key Features
+- OCR-based note scanning using Google ML Kit
+- Automatic flashcard generation system
+- Custom spaced repetition algorithm (Leitner system)
+- Firebase cloud sync for persistent storage
+- Analytics dashboard for study tracking
+
+## Tech Stack
+- Java
+- Android SDK (XML, RecyclerViews, Adapters)
+- Google ML Kit (OCR)
+- Firebase Firestore
+
+## My Role / What I Built
+- Implemented OCR pipeline using ML Kit
+- Built flashcard generation and spaced repetition logic
+- Designed Firebase data architecture and sync system
+- Created UI components and study analytics dashboard
+
+## Full Details
 **Digital Binder** is an AI-powered study companion built natively for Android. Designed for high school and college students, this application digitizes physical notes and textbook pages, automatically extracting text to generate smart flashcards, study guides, and mastery analytics. 
 
 By leveraging **Google ML Kit** for optical character recognition (OCR) and a custom implementation of the **Leitner Spaced Repetition Algorithm**, Digital Binder transforms passive reading into active, data-driven learning.
